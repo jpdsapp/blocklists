@@ -1,0 +1,1 @@
+{ "lists": {"gambling-nl.txt" : "3", "abuse-nl.txt": "2"}}
